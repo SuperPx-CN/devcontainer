@@ -4,6 +4,7 @@
     "dockerfile": "Dockerfile"
   },
   "remoteUser": "dev",
+  "workspaceFolder": "/workspace",
   "customizations": {
     "jetbrains": {
       "backend": "IntelliJ",
