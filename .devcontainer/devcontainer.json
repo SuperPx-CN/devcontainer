@@ -1,0 +1,14 @@
+{
+  "name": "PHP 8.4 Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "dev",
+  "customizations": {
+    "jetbrains": {
+      "backend": "IntelliJ",
+      "settings": {
+      }
+    }
+  }
+}
